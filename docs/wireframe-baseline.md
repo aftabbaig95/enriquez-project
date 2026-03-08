@@ -8,6 +8,10 @@ Purpose: Define the current-site reference baseline for wireframing.
 Current website URL:
 - https://purposefundgrp.com/
 
+Live URL validation performed:
+- Date: 2026-03-07
+- Purpose: confirm live homepage section content and CTA language in addition to screenshot references.
+
 Captured reference assets location:
 - `Website Screenshots/`
 
@@ -59,3 +63,6 @@ Only introduce structural changes if they improve at least one of:
 
 ## 8) Next Step
 Complete `docs/page-inventory.md` section-by-section from the screenshot set, then draft low-fidelity wireframes page by page.
+
+## 9) Current Wireframe Deliverable
+- `docs/wireframe-phase1.md` (low-fidelity, conversion-first wireframes for core Phase 1 pages)
