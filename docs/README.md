@@ -13,6 +13,8 @@ Purpose: Central navigation for planning, execution, launch, and transition docs
 - `phase1-master-index.md`
 - `phase1-weekly-execution-dashboard-2026-03-07.md`
 - `weekly-update-2026-03-07.md`
+- `phase1-finalization-checklist.md`
+- `phase1-handoff-email-template.md`
 
 ## Current Program State
 - Scope framework established (Phase 1/2/3).
