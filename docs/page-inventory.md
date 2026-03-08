@@ -1,7 +1,7 @@
 # Page Inventory (Current Site Baseline)
 
 Project: Enriquez Project  
-Status: Draft template with captured page folders
+Status: Populated baseline inventory from captured page folders
 
 Use this file to map each current page into wireframe-ready section blocks.
 

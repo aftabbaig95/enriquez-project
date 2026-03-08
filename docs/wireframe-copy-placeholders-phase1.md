@@ -26,6 +26,13 @@ Purpose: Provide block-level placeholder copy for each Phase 1 wireframe section
 - CTA: Watch Stories
 - Asset notes: 2 to 3 short clips with captions.
 
+### Block H2B: Value Pillars
+- Objective: Clarify the core value proposition quickly.
+- Placeholder headline: Why business owners choose this approach.
+- Placeholder subhead: Stress-free process, easy financing paths, and expert advisors focused on practical next steps.
+- CTA: Explore Funding Paths
+- Asset notes: 3 benefit cards aligned to live-site pillar themes.
+
 ### Block H3: Credibility Strip
 - Objective: Show proof at a glance.
 - Placeholder headline: Trusted by business owners across industries.

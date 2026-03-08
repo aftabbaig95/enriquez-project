@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Phase 1 Live Wireframes</title>
+  <style>
+    :root {
+      --bg: #f7f7f2;
+      --ink: #1f2933;
+      --line: #c7ced6;
+      --card: #ffffff;
+      --accent: #0b4f6c;
+      --muted: #5d6975;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Menlo", "Consolas", "Monaco", monospace;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 15% 10%, #e8efe9 0%, transparent 35%),
+        radial-gradient(circle at 90% 90%, #e3edf5 0%, transparent 40%),
+        var(--bg);
+    }
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: #ffffffd9;
+      backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--line);
+      padding: 12px 16px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+    }
+    h1 { font-size: 16px; margin: 0; }
+    .nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .nav a {
+      text-decoration: none;
+      color: var(--ink);
+      border: 1px solid var(--line);
+      padding: 6px 10px;
+      border-radius: 6px;
+      background: #fff;
+      font-size: 12px;
+    }
+    .wrap { max-width: 1080px; margin: 0 auto; padding: 16px; }
+    .page {
+      margin: 16px 0 28px;
+      padding: 14px;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: var(--card);
+    }
+    .page h2 {
+      margin: 0 0 10px;
+      font-size: 15px;
+      color: var(--accent);
+    }
+    .row {
+      border: 1px dashed var(--line);
+      border-radius: 8px;
+      padding: 10px;
+      margin: 8px 0;
+      background: #fcfdfd;
+    }
+    .row .label {
+      display: inline-block;
+      margin-bottom: 5px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+    .cta {
+      display: inline-block;
+      margin-right: 8px;
+      margin-top: 6px;
+      border: 1px solid var(--accent);
+      color: var(--accent);
+      padding: 3px 8px;
+      border-radius: 999px;
+      font-size: 12px;
+    }
+    .note {
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+    .split {
+      display: grid;
+      gap: 10px;
+      grid-template-columns: 1fr;
+    }
+    @media (min-width: 860px) {
+      .split { grid-template-columns: 1fr 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Enriquez Project - Phase 1 Live Wireframes</h1>
+    <nav class="nav">
+      <a href="#home">Home</a>
+      <a href="#iso">ISO</a>
+      <a href="#testimonials">Testimonials</a>
+      <a href="#principles">Company Principles</a>
+      <a href="#contact">Contact</a>
+      <a href="#apply">Apply Entry</a>
+    </nav>
+  </header>
+
+  <main class="wrap">
+    <section id="home" class="page">
+      <h2>Home Wireframe</h2>
+      <div class="row"><span class="label">Header/Nav</span><div>Logo | Home | ISO Partnerships | Testimonials | Resources | Company Principles | Contact | Apply Now</div></div>
+      <div class="row"><span class="label">Hero</span><div>Build your business, grow your wealth.</div><span class="cta">Apply Now</span><span class="cta">Explore ISO</span><span class="cta">(917) 730-0705</span></div>
+      <div class="split">
+        <div class="row"><span class="label">Familiarity Video</span><div>Meet Cade and Jason</div></div>
+        <div class="row"><span class="label">Value Pillars</span><div>Stress-Free Process | Easy Financing | Expert Advisors</div></div>
+      </div>
+      <div class="row"><span class="label">Credibility Strip</span><div>Logos | Metrics | Proof snippets</div></div>
+      <div class="row"><span class="label">Funding Outcomes</span><div>Use-case cards (3)</div></div>
+      <div class="row"><span class="label">Testimonial Preview</span><div>2-4 quote/video cards</div></div>
+      <div class="row"><span class="label">FAQ</span><div>Timeline | Credit score | Early payoff terms</div></div>
+      <div class="row"><span class="label">Process</span><div>Submit -> Review -> Match -> Offer -> Fund</div></div>
+      <div class="row"><span class="label">Tool Teaser</span><div>Calculator coming in phase 2</div></div>
+      <div class="row"><span class="label">Final CTA</span><span class="cta">Apply Now</span><span class="cta">Talk to Team</span></div>
+      <p class="note">Review focus: CTA consistency, proof timing, FAQ brevity.</p>
+    </section>
+
+    <section id="iso" class="page">
+      <h2>ISO Partnerships Wireframe</h2>
+      <div class="row"><span class="label">Partner Hero</span><div>Partnership model for long-term growth</div><span class="cta">Partner Apply</span><span class="cta">Call Team</span></div>
+      <div class="row"><span class="label">Field Visits</span><div>SkyCap | Irongate | Evergreen | Triumph | Suburban</div></div>
+      <div class="row"><span class="label">Value Pillars</span><div>Return | Syndication | Unique Offers | No Backdooring | Upfront Commissions</div></div>
+      <div class="row"><span class="label">Fundworks/Retention</span><div>Operational support and retention story</div></div>
+      <div class="row"><span class="label">Partner Process</span><div>Intro -> Align -> Support -> Scale</div></div>
+      <div class="row"><span class="label">Proof</span><div>Quotes and outcomes</div></div>
+      <div class="row"><span class="label">Partner CTA</span><span class="cta">Partner Apply</span><span class="cta">Direct Call</span></div>
+      <p class="note">Review focus: partner-first differentiation and economics clarity.</p>
+    </section>
+
+    <section id="testimonials" class="page">
+      <h2>Testimonials Wireframe</h2>
+      <div class="row"><span class="label">Hero</span><div>Real outcomes from real businesses</div></div>
+      <div class="row"><span class="label">Featured Stories</span><div>Video highlights (2-3)</div></div>
+      <div class="row"><span class="label">Quote Grid</span><div>6+ short proof cards</div></div>
+      <div class="row"><span class="label">Named Proof List</span><div>Organized testimonial names</div></div>
+      <div class="row"><span class="label">Conversion Prompt</span><span class="cta">Apply Now</span><span class="cta">Talk to Team</span></div>
+      <p class="note">Review focus: keep proof dominant before conversion ask.</p>
+    </section>
+
+    <section id="contact" class="page">
+      <h2>Contact Wireframe</h2>
+      <div class="row"><span class="label">Hero</span><div>Funding vs ISO inquiry split</div></div>
+      <div class="row"><span class="label">Direct Contact Cards</span><div>ISO rep | Underwriter | Email</div></div>
+      <div class="row"><span class="label">Form</span><div>Name | Email | Phone | Intent | Message</div><span class="cta">Submit</span></div>
+      <div class="row"><span class="label">Social Links</span><div>X | Instagram | LinkedIn | Facebook</div></div>
+      <div class="row"><span class="label">Final CTA</span><span class="cta">Apply Now</span></div>
+      <p class="note">Review focus: routing quality and response-time promise.</p>
+    </section>
+
+    <section id="apply" class="page">
+      <h2>Apply Entry Wireframe</h2>
+      <div class="row"><span class="label">Hero</span><div>Start your application with clear expectations</div></div>
+      <div class="row"><span class="label">What To Prepare</span><div>Checklist: business info, funding goal, contact details</div></div>
+      <div class="row"><span class="label">Support Prompt</span><span class="cta">Call Team</span></div>
+      <div class="row"><span class="label">Handoff CTA</span><span class="cta">Continue to Application</span></div>
+      <p class="note">Review focus: reduce abandonment before external handoff.</p>
+    </section>
+
+    <section id="principles" class="page">
+      <h2>Company Principles Wireframe</h2>
+      <div class="row"><span class="label">Hero</span><div>Principles that guide every client and partner interaction</div></div>
+      <div class="row"><span class="label">Core Values</span><div>Clarity | Accountability | Practical Guidance | Long-Term Relationships</div></div>
+      <div class="row"><span class="label">Commitment Statement</span><div>Retention-focused outcomes and transparent communication at each step</div></div>
+      <div class="row"><span class="label">Final CTA</span><span class="cta">Contact Us</span><span class="cta">Apply Now</span></div>
+      <p class="note">Review focus: trust language and values-to-action clarity.</p>
+    </section>
+  </main>
+</body>
+</html>

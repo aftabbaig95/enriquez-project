@@ -105,7 +105,7 @@ Mobile behavior:
 
 ```text
 +--------------------------------------------------------------------------------+
-| LOGO | Home | ISO Partnerships | Testimonials | Resources | Contact | APPLY NOW |
+| LOGO | Home | ISO Partnerships | Testimonials | Resources | Company Principles | Contact | APPLY NOW |
 +--------------------------------------------------------------------------------+
 | HERO: "Build your business, grow your wealth"                                 |
 | [Apply Now] [ISO Partnerships] [(917) 730-0705]                                |
@@ -228,6 +228,8 @@ Mobile behavior:
 
 ```text
 +-------------------------------------------------------------+
+| NAV + APPLY NOW                                             |
++-------------------------------------------------------------+
 | HERO: Real client outcomes                                  |
 +-------------------------------------------------------------+
 | FEATURED VIDEOS: [Video] [Video] [Video]                   |
@@ -237,6 +239,8 @@ Mobile behavior:
 | PROOF NAMES / CASE SNAPSHOTS                                |
 +-------------------------------------------------------------+
 | CTA: [Apply Now] [Talk to Team]                             |
++-------------------------------------------------------------+
+| FOOTER: Contact | Social | Privacy | Compliance             |
 +-------------------------------------------------------------+
 ```
 
@@ -252,12 +256,12 @@ Mobile behavior:
 - Underwriter phone.
 - Email.
 
-1. Social Link Row (`KEEP`)
-- X, Instagram, LinkedIn, Facebook.
-
 1. Question Form (`REFINE`)
 - Add intent routing field.
 - Set response-time expectation.
+
+1. Social Link Row (`KEEP`)
+- X, Instagram, LinkedIn, Facebook.
 
 1. Final CTA (`ADD`)
 - Apply path for high-intent users.
@@ -270,10 +274,10 @@ Mobile behavior:
 +--------------------------------------------------------------+
 | [ISO Rep Card] [Underwriter Card] [Email Card]              |
 +--------------------------------------------------------------+
-| SOCIAL LINKS: X | Instagram | LinkedIn | Facebook           |
-+--------------------------------------------------------------+
 | FORM: Name | Email | Phone | Intent | Message | [Submit]    |
 | Note: "Typical response within X business hours"            |
++--------------------------------------------------------------+
+| SOCIAL LINKS: X | Instagram | LinkedIn | Facebook           |
 +--------------------------------------------------------------+
 | CTA: [Apply Now]                                             |
 +--------------------------------------------------------------+
