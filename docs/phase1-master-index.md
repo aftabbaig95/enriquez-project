@@ -30,9 +30,11 @@ Purpose: Single entry point for all Phase 1 wireframe and launch-planning docume
 - `docs/phase1-client-review-agenda.md`: client meeting agenda and decision capture script.
 - `docs/phase1-work-package-map.md`: grouped execution work packages with handoff points.
 - `docs/phase1-milestone-plan.md`: milestone gates, dates, and completion evidence.
+- `docs/phase1-raci-matrix.md`: responsibility and accountability mapping across roles.
 - `docs/phase1-approval-workflow.md`: staged approval path, SLA targets, and evidence log.
 - `docs/phase1-open-questions-register.md`: unresolved questions with owners and due dates.
 - `docs/phase1-change-request-log.md`: controlled log for scope/timeline/quality change requests.
+- `docs/phase1-document-maintenance-policy.md`: update-frequency and change-propagation policy.
 - `docs/phase1-operations-cadence-calendar.md`: day-by-day weekly operating rhythm and recurring outputs.
 - `docs/phase1-action-register-2026-03-07.md`: dated action tracker with owners and due dates.
 - `docs/phase1-daily-standup-script.md`: daily standup facilitation script and checklist.
