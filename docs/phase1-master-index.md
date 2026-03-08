@@ -22,12 +22,14 @@ Purpose: Single entry point for all Phase 1 wireframe and launch-planning docume
 - `docs/owner-assignment-sheet-phase1.md`: owner and due-date assignment for launch-critical `P1` blocks.
 - `docs/weekly-stakeholder-update-template.md`: reusable report template.
 - `docs/weekly-update-2026-03-07.md`: first completed weekly report.
+- `docs/phase1-kpi-baseline-and-targets.md`: measurement baselines and target ranges.
 
 ## 4) Launch Controls
 - `docs/phase1-launch-readiness-checklist.md`: go/no-go gate checklist.
 - `docs/phase1-launch-day-runbook.md`: launch timeline, smoke tests, and rollback flow.
 - `docs/phase1-qa-test-case-matrix.md`: repeatable QA tests and go/no-go QA rule.
 - `docs/phase1-asset-request-packet.md`: asset intake, validation, and escalation packet.
+- `docs/phase1-risk-register.md`: tracked launch and delivery risks with mitigation ownership.
 
 ## 5) Recommended Working Order
 1. Review `docs/scope-phases.md` and `docs/sitemap.md`.
