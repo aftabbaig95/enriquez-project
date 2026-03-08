@@ -12,6 +12,7 @@ Purpose: Single entry point for all Phase 1 wireframe and launch-planning docume
 - `docs/scope-phases.md`
 - `docs/sitemap.md`
 - `docs/phase1-program-handbook.md`
+- `docs/phase1-executive-one-pager.md`
 - `docs/phase1-status-board-2026-03-07.md`
 - `docs/phase1-implementation-brief.md`
 - `docs/phase1-onboarding-quickstart.md`
@@ -31,6 +32,7 @@ Purpose: Single entry point for all Phase 1 wireframe and launch-planning docume
 - `docs/owner-assignment-draft-2026-03-07.md`: proposed role-based owner and due-date draft.
 - `docs/phase1-implementation-ticket-backlog.md`: implementation ticket stubs and sprint packaging.
 - `docs/phase1-client-review-agenda.md`: client meeting agenda and decision capture script.
+- `docs/phase1-decision-meeting-minutes-template.md`: decision-meeting recording template with action capture.
 - `docs/phase1-work-package-map.md`: grouped execution work packages with handoff points.
 - `docs/phase1-milestone-plan.md`: milestone gates, dates, and completion evidence.
 - `docs/phase1-raci-matrix.md`: responsibility and accountability mapping across roles.
