@@ -24,6 +24,7 @@ Purpose: Single entry point for all Phase 1 wireframe and launch-planning docume
 - `docs/phase1-implementation-ticket-backlog.md`: implementation ticket stubs and sprint packaging.
 - `docs/phase1-client-review-agenda.md`: client meeting agenda and decision capture script.
 - `docs/phase1-approval-workflow.md`: staged approval path, SLA targets, and evidence log.
+- `docs/phase1-open-questions-register.md`: unresolved questions with owners and due dates.
 - `docs/weekly-stakeholder-update-template.md`: reusable report template.
 - `docs/weekly-update-2026-03-07.md`: first completed weekly report.
 - `docs/phase1-kpi-baseline-and-targets.md`: measurement baselines and target ranges.
@@ -34,6 +35,7 @@ Purpose: Single entry point for all Phase 1 wireframe and launch-planning docume
 - `docs/phase1-launch-day-runbook.md`: launch timeline, smoke tests, and rollback flow.
 - `docs/phase1-launch-communications-plan.md`: launch messaging timeline and incident communication templates.
 - `docs/phase1-qa-test-case-matrix.md`: repeatable QA tests and go/no-go QA rule.
+- `docs/phase1-handoff-acceptance-checklist.md`: formal handoff acceptance checks across planning/build/QA/launch.
 - `docs/phase1-asset-request-packet.md`: asset intake, validation, and escalation packet.
 - `docs/phase1-risk-register.md`: tracked launch and delivery risks with mitigation ownership.
 
