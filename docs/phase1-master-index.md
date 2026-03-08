@@ -26,6 +26,8 @@ Purpose: Single entry point for all Phase 1 wireframe and launch-planning docume
 ## 4) Launch Controls
 - `docs/phase1-launch-readiness-checklist.md`: go/no-go gate checklist.
 - `docs/phase1-launch-day-runbook.md`: launch timeline, smoke tests, and rollback flow.
+- `docs/phase1-qa-test-case-matrix.md`: repeatable QA tests and go/no-go QA rule.
+- `docs/phase1-asset-request-packet.md`: asset intake, validation, and escalation packet.
 
 ## 5) Recommended Working Order
 1. Review `docs/scope-phases.md` and `docs/sitemap.md`.
@@ -36,6 +38,7 @@ Purpose: Single entry point for all Phase 1 wireframe and launch-planning docume
 6. Assign owners/due dates in `docs/owner-assignment-sheet-phase1.md`.
 7. Run final checks with `docs/phase1-launch-readiness-checklist.md`.
 8. Execute launch with `docs/phase1-launch-day-runbook.md`.
+9. Run validation and defect tracking with `docs/phase1-qa-test-case-matrix.md`.
 
 ## 6) Definition of Done (Phase 1 Planning)
 - All `P1` rows have owner and due date.
