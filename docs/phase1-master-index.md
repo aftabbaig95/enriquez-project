@@ -6,11 +6,13 @@ Date: 2026-03-07
 Purpose: Single entry point for all Phase 1 wireframe and launch-planning documents.
 
 ## 1) Start Here
+- `docs/README.md`
 - `docs/meeting-notes.md`
 - `docs/audit.md`
 - `docs/scope-phases.md`
 - `docs/sitemap.md`
 - `docs/phase1-program-handbook.md`
+- `docs/phase1-status-board-2026-03-07.md`
 - `docs/phase1-implementation-brief.md`
 - `docs/phase1-onboarding-quickstart.md`
 - `docs/phase1-glossary.md`
