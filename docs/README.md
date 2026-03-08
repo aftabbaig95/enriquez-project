@@ -10,6 +10,7 @@ Purpose: Central navigation for planning, execution, launch, and transition docs
 
 ## Core Entry Points
 - `phase1-program-handbook.md`
+- `phase1-deliverable-manifest.md`
 - `phase1-master-index.md`
 - `phase1-weekly-execution-dashboard-2026-03-07.md`
 - `weekly-update-2026-03-07.md`

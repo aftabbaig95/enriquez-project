@@ -12,6 +12,7 @@ Purpose: Single entry point for all Phase 1 wireframe and launch-planning docume
 - `docs/scope-phases.md`
 - `docs/sitemap.md`
 - `docs/phase1-program-handbook.md`
+- `docs/phase1-deliverable-manifest.md`
 - `docs/phase1-executive-one-pager.md`
 - `docs/phase1-status-board-2026-03-07.md`
 - `docs/phase1-implementation-brief.md`
