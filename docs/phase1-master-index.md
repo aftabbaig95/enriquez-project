@@ -36,6 +36,7 @@ Purpose: Single entry point for all Phase 1 wireframe and launch-planning docume
 - `docs/phase1-open-questions-register.md`: unresolved questions with owners and due dates.
 - `docs/phase1-change-request-log.md`: controlled log for scope/timeline/quality change requests.
 - `docs/phase1-document-maintenance-policy.md`: update-frequency and change-propagation policy.
+- `docs/phase1-document-ownership-register.md`: ownership, backup, and review cadence for key docs.
 - `docs/phase1-operations-cadence-calendar.md`: day-by-day weekly operating rhythm and recurring outputs.
 - `docs/phase1-action-register-2026-03-07.md`: dated action tracker with owners and due dates.
 - `docs/phase1-daily-standup-script.md`: daily standup facilitation script and checklist.
@@ -46,6 +47,7 @@ Purpose: Single entry point for all Phase 1 wireframe and launch-planning docume
 - `docs/phase1-weekly-execution-dashboard.md`: weekly delivery health dashboard template.
 - `docs/phase1-weekly-execution-dashboard-2026-03-07.md`: first filled weekly dashboard snapshot.
 - `docs/phase1-kpi-baseline-and-targets.md`: measurement baselines and target ranges.
+- `docs/phase1-kpi-dictionary.md`: metric formulas, sources, and interpretation rules.
 - `docs/phase1-kpi-weekly-report-template.md`: weekly KPI reporting format.
 - `docs/phase1-artifact-audit-map.md`: function-to-artifact coverage map and gap actions.
 
