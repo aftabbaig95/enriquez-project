@@ -10,6 +10,7 @@ Purpose: Single entry point for all Phase 1 wireframe and launch-planning docume
 - `docs/audit.md`
 - `docs/scope-phases.md`
 - `docs/sitemap.md`
+- `docs/phase1-implementation-brief.md`
 
 ## 2) Wireframe Core
 - `docs/wireframe-baseline.md`: source references and annotation rules.
@@ -31,6 +32,7 @@ Purpose: Single entry point for all Phase 1 wireframe and launch-planning docume
 - `docs/phase1-weekly-execution-dashboard.md`: weekly delivery health dashboard template.
 - `docs/phase1-kpi-baseline-and-targets.md`: measurement baselines and target ranges.
 - `docs/phase1-kpi-weekly-report-template.md`: weekly KPI reporting format.
+- `docs/phase1-artifact-audit-map.md`: function-to-artifact coverage map and gap actions.
 
 ## 4) Launch Controls
 - `docs/phase1-launch-readiness-checklist.md`: go/no-go gate checklist.
