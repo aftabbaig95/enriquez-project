@@ -50,6 +50,7 @@ Purpose: Single entry point for all Phase 1 wireframe and launch-planning docume
 - `docs/phase1-weekly-execution-dashboard-2026-03-07.md`: first filled weekly dashboard snapshot.
 - `docs/phase1-kpi-baseline-and-targets.md`: measurement baselines and target ranges.
 - `docs/phase1-kpi-dictionary.md`: metric formulas, sources, and interpretation rules.
+- `docs/phase1-metrics-capture-sheet-template.md`: raw KPI collection and baseline comparison template.
 - `docs/phase1-kpi-weekly-report-template.md`: weekly KPI reporting format.
 - `docs/phase1-artifact-audit-map.md`: function-to-artifact coverage map and gap actions.
 
@@ -57,6 +58,7 @@ Purpose: Single entry point for all Phase 1 wireframe and launch-planning docume
 - `docs/phase1-launch-readiness-checklist.md`: go/no-go gate checklist.
 - `docs/phase1-launch-day-runbook.md`: launch timeline, smoke tests, and rollback flow.
 - `docs/phase1-launch-communications-plan.md`: launch messaging timeline and incident communication templates.
+- `docs/phase1-launch-week-checklist.md`: day-by-day checklist for launch week execution.
 - `docs/phase1-qa-test-case-matrix.md`: repeatable QA tests and go/no-go QA rule.
 - `docs/phase1-handoff-acceptance-checklist.md`: formal handoff acceptance checks across planning/build/QA/launch.
 - `docs/phase1-asset-request-packet.md`: asset intake, validation, and escalation packet.
