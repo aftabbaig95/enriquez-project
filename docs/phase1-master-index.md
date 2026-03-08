@@ -21,6 +21,8 @@ Purpose: Single entry point for all Phase 1 wireframe and launch-planning docume
 - `docs/content-production-tracker-phase1.md`: status tracker for copy/assets/dependencies.
 - `docs/owner-assignment-sheet-phase1.md`: owner and due-date assignment for launch-critical `P1` blocks.
 - `docs/owner-assignment-draft-2026-03-07.md`: proposed role-based owner and due-date draft.
+- `docs/phase1-implementation-ticket-backlog.md`: implementation ticket stubs and sprint packaging.
+- `docs/phase1-client-review-agenda.md`: client meeting agenda and decision capture script.
 - `docs/weekly-stakeholder-update-template.md`: reusable report template.
 - `docs/weekly-update-2026-03-07.md`: first completed weekly report.
 - `docs/phase1-kpi-baseline-and-targets.md`: measurement baselines and target ranges.
