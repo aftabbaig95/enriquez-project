@@ -36,6 +36,8 @@ Purpose: Single entry point for all Phase 1 wireframe and launch-planning docume
 - `docs/phase1-operations-cadence-calendar.md`: day-by-day weekly operating rhythm and recurring outputs.
 - `docs/phase1-action-register-2026-03-07.md`: dated action tracker with owners and due dates.
 - `docs/phase1-daily-standup-script.md`: daily standup facilitation script and checklist.
+- `docs/phase1-dependency-matrix.md`: cross-workstream dependency map and escalation rules.
+- `docs/phase1-readiness-scorecard.md`: single-page readiness scoring view.
 - `docs/weekly-stakeholder-update-template.md`: reusable report template.
 - `docs/weekly-update-2026-03-07.md`: first completed weekly report.
 - `docs/phase1-weekly-execution-dashboard.md`: weekly delivery health dashboard template.
