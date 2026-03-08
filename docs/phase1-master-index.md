@@ -25,8 +25,10 @@ Purpose: Single entry point for all Phase 1 wireframe and launch-planning docume
 - `docs/phase1-client-review-agenda.md`: client meeting agenda and decision capture script.
 - `docs/phase1-approval-workflow.md`: staged approval path, SLA targets, and evidence log.
 - `docs/phase1-open-questions-register.md`: unresolved questions with owners and due dates.
+- `docs/phase1-change-request-log.md`: controlled log for scope/timeline/quality change requests.
 - `docs/weekly-stakeholder-update-template.md`: reusable report template.
 - `docs/weekly-update-2026-03-07.md`: first completed weekly report.
+- `docs/phase1-weekly-execution-dashboard.md`: weekly delivery health dashboard template.
 - `docs/phase1-kpi-baseline-and-targets.md`: measurement baselines and target ranges.
 - `docs/phase1-kpi-weekly-report-template.md`: weekly KPI reporting format.
 
