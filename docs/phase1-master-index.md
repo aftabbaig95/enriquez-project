@@ -28,6 +28,12 @@ Purpose: Single entry point for all Phase 1 wireframe and launch-planning docume
 - `docs/page-inventory.md`: section-level mapping from current site pages.
 - `docs/wireframe-phase1.md`: low-fidelity page structures and CTA sequencing.
 - `docs/wireframe-copy-placeholders-phase1.md`: block-level copy placeholders.
+- `docs/wireframes-live.html`: local live wireframe preview in single-page HTML format.
+- `wireframes/live-site-wireframe/index.html`: standalone, openable package using live-site messaging.
+- `wireframes/live-site-wireframe/pages/content-source.md`: source mapping for live text used in wireframe package.
+
+## 2B) Technical Audit
+- `docs/technical-audit-purposefundgrp-2026-03-09.md`: black-box technical audit from live URL checks (headers, crawlability, SEO, route health).
 
 ## 3) Production Management
 - `docs/content-production-tracker-phase1.md`: status tracker for copy/assets/dependencies.

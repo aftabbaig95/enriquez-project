@@ -1,6 +1,6 @@
 # Enriquez Project Docs Hub
 
-Last Updated: 2026-03-07  
+Last Updated: 2026-03-09  
 Purpose: Central navigation for planning, execution, launch, and transition docs.
 
 ## Quick Start
@@ -12,6 +12,8 @@ Purpose: Central navigation for planning, execution, launch, and transition docs
 - `phase1-program-handbook.md`
 - `phase1-deliverable-manifest.md`
 - `phase1-master-index.md`
+- `technical-audit-purposefundgrp-2026-03-09.md`
+- `../wireframes/live-site-wireframe/index.html`
 - `phase1-weekly-execution-dashboard-2026-03-07.md`
 - `weekly-update-2026-03-07.md`
 - `phase1-finalization-checklist.md`
@@ -20,6 +22,8 @@ Purpose: Central navigation for planning, execution, launch, and transition docs
 ## Current Program State
 - Scope framework established (Phase 1/2/3).
 - Phase 1 wireframe and copy planning complete.
+- Standalone live-content wireframe package created in `wireframes/live-site-wireframe/`.
+- URL-level technical audit completed for `https://purposefundgrp.com/`.
 - Launch governance packet complete.
 - Operational cadence, risk, KPI, and ownership controls in place.
 
