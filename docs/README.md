@@ -13,6 +13,7 @@ Purpose: Central navigation for planning, execution, launch, and transition docs
 - `phase1-deliverable-manifest.md`
 - `phase1-master-index.md`
 - `technical-audit-purposefundgrp-2026-03-09.md`
+- `client-facing-audit-and-growth-plan-2026-03-09.md`
 - `../wireframes/live-site-wireframe/index.html`
 - `phase1-weekly-execution-dashboard-2026-03-07.md`
 - `weekly-update-2026-03-07.md`

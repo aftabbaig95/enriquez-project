@@ -34,6 +34,7 @@ Purpose: Single entry point for all Phase 1 wireframe and launch-planning docume
 
 ## 2B) Technical Audit
 - `docs/technical-audit-purposefundgrp-2026-03-09.md`: black-box technical audit from live URL checks (headers, crawlability, SEO, route health).
+- `docs/client-facing-audit-and-growth-plan-2026-03-09.md`: presentation-ready audit narrative aligned to trust-building and lead generation goals.
 
 ## 3) Production Management
 - `docs/content-production-tracker-phase1.md`: status tracker for copy/assets/dependencies.
